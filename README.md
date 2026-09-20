@@ -1,4 +1,4 @@
-# exp_1_study_of_microwave_components
+# exp_1_study_of_microwave_component
 
 # Experiment 1 — Study of Microwave Components and Instruments
 
